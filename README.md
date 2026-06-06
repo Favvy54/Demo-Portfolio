@@ -1,2 +1,21 @@
-# Demo-Portfolio
-Modern responsive portfolio website showcasing my skills, projects, and growth as a frontend developer. Built with HTML and CSS , it focuses on clean UI, accessibility, and mobile-first design, serving as a central hub for my personal brand and work.
+
+
+# Portfolio Website
+
+This is my personal portfolio website built to showcase my skills, projects, and growth as a frontend developer.
+
+## Built With
+- HTML
+- CSS
+
+## Features
+- Responsive design
+- Clean UI
+- Projects showcase
+- About and contact sections
+
+## Purpose
+To serve as a central place for my work and personal brand as I grow in frontend development.
+
+## Author
+Favour Chukwudum
